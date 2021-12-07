@@ -25,4 +25,4 @@ Why:
 
 ###ERD
 
-![](img/Screen Shot 2021-12-07 at 11.45.35 AM.png)
+![](img/Screen%20Shot%202021-12-07%20at%2011.45.35%20AM.png)
